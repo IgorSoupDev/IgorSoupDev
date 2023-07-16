@@ -4,7 +4,7 @@
 - 🌱 I’m constantly learning something new every day.
 - 😄 Pronouns: he/him.
 
-💻🎮 I absolutely love programming on retro consoles; I adore the challenges that each hardware can provide 🕹️🎉.
+💻🎮 I like programming on retro consoles; just because of the challenge lol.
 
 📫 You can reach me at soupdev3000@gmail.com.
 
