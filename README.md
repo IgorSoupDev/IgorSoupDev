@@ -1,10 +1,9 @@
-### Hi there! 👋
+### Heya!
 
-- 🔭 I’m currently working on homebrews for old consoles.
-- 🌱 I’m constantly learning something new every day.
-- 😄 Pronouns: he/him.
+- I’m currently working on homebrews for old consoles.
+- I’m constantly learning something.
 
-💻🎮 I like programming on retro consoles; just because of the challenge lol.
+🎮 I like programming on retro consoles; just because of the challenge lol.
 
 📫 You can reach me at soupdev3000@gmail.com.
 
